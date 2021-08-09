@@ -1,9 +1,26 @@
 # Laravel 8 Example Application
 
-## Setep
+## Steps
+
+### Laragon
+
+Using Terminal, make sure your console at *www* path
+```code 
+example C:/laragon/wwww
+```
+
+### Git Clone
+path of our project should be under www folder
+
+```code
+git clone https://github.com/mzm-dev/l8b5.git
+```
+project will be created under *www/l8b5*
+
 
 ### Install Composer Dependencies
 
+run script composer under l8b5 folder
 ```code
 composer install
 ```
