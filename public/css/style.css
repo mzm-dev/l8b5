@@ -1,0 +1,102 @@
+/* Color collection */
+.text-blue {
+    color: #0b78d1 !important;
+}
+.text-blue-dark {
+    color: #074b83 !important;
+}
+.text-orange {
+    color: #fd7e14 !important;
+}
+.bg-blue {
+    color: #fff !important;
+    background-color: #0b78d1 !important;
+}
+
+.bg-blue-dark {
+    color: #fff !important;
+    background-color: #074b83 !important;
+}
+
+.bg-indigo {
+    color: #fff !important;
+    background-color: #3f51b5 !important;
+}
+
+.bg-purple {
+    color: #fff !important;
+    background-color: #6f42c1 !important;
+}
+
+.bg-pink {
+    color: #fff !important;
+    background-color: #e83e8c !important;
+}
+
+.bg-red {
+    color: #fff !important;
+    background-color: #dc3545 !important;
+}
+
+.bg-orange {
+    color: #fff !important;
+    background-color: #fd7e14 !important;
+}
+
+.bg-yellow {
+    color: #fff !important;
+    background-color: #ffc107 !important;
+}
+
+.bg-green {
+    color: #fff !important;
+    background-color: #28a745 !important;
+}
+
+.bg-teal {
+    color: #fff !important;
+    background-color: #009688 !important;
+}
+
+.bg-cyan {
+    color: #fff !important;
+    background-color: #17a2b8 !important;
+}
+
+
+/* nav-master */
+#nav-master a.active {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+#nav-master a.nav-link:hover {
+    color: #fff !important;
+}
+
+/* Logo Icon */
+.logo-icon {
+    width: 55px;
+    height: 55px;
+    display: inline-block;
+}
+
+/* form-signin */
+.form-signin {
+    width: 440px;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-signin .checkbox {
+    font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+}
